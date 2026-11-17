@@ -27,8 +27,6 @@
 
 ---
 
-<h1 align="center">Samet Cırık</h1>
-
 <p align="center">
   机电工程学生 & 初级开发者<br>
   专注于 <b>UI/UX 设计</b>、<b>Java 桌面端 (Swing/JavaFX)</b> 和 <b>数据分析</b>。
