@@ -26,8 +26,7 @@
 </p>
 
 ---
-
-<h1 align="center">Samet Cırık</h1>
+<!-- <h1 align="center">SMTC</h1> -->
 
 <p align="center">
   Estudante de Engenharia Mecatrônica & Desenvolvedor Júnior<br>
