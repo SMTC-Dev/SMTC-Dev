@@ -27,7 +27,7 @@
 
 ---
 
-<h1 align="center">Samet Cırık</h1>
+<!-- <h1 align="center">SMTC</h1> -->
 
 <p align="center">
   メカトロニクス工学の学生 & ジュニア開発者<br>
