@@ -26,7 +26,7 @@
 </p>
 
 ---
-<!-- <h1 align="center">SMTC</h1> -->
+<!-- <h1 align="center">SMTC</h1> --> 
 
 <p align="center">
   Mekatronik Mühendisliği Öğrencisi & Junior Geliştirici<br>
