@@ -69,14 +69,16 @@
 <p align="center">
   <b><a href="https://github.com/SametCirik/InkEra">InkEra Studio Drawing App</a></b>: Modern bir çizim arayüzü konsepti (Yapım aşamasında).<br>
   <b><a href="https://github.com/SametCirik/Fountext-Screenwriting-Editor">Fountext Screenwriting Editor</a></b>: Linux için Python ile yazılmış Fountain senaryo editörü.<br>
+  <b><a href="https://github.com/SametCirik/SC-Hotspot">SC Hotspot</a></b>: Linux'ta donanım çakışmalarını önleyen dinamik bir Wi-Fi köprüsü ve TUI aracı.<br>
   <b><a href="https://github.com/SametCirik/Whatsapp-KYK-Bot">WhatsApp KYK Bot</a></b>: Verimlilik ve otomasyon odaklı bir servis uygulaması.<br>
   <b><a href="https://github.com/SametCirik/FolderToText">Folder To Text</a></b>: Dizin yapılarını belgelemek için yardımcı araç.<br>
-  <b><a href="https://github.com/SametCirik/SC-Hotspot">SC Hotspot</a></b>: Linux'ta donanım çakışmalarını önleyen dinamik bir Wi-Fi köprüsü ve TUI aracı.<br>
   <b><a href="https://github.com/SametCirik/Solitaire">Solitaire</a></b>: Java Swing ile geliştirilmiş bir kart oyunu motoru çalışması.<br>
-  <b><a href="https://github.com/SametCirik/Base">Base</a></b>: Linux için mobil oyun kolu uygulaması (Mobil arayüz geliştirmeye odaklı).
+  <!--<b><a href="https://github.com/SametCirik/Base">Base</a></b>: Linux için mobil oyun kolu uygulaması (Mobil arayüz geliştirmeye odaklı).-->
 </p>
 
 ---
+
+<!--
 
 <h3 align="center">İletişim</h3>
 
@@ -116,6 +118,8 @@
 </div>
 
 ---
+
+-->
 
 <p align="center">
   <img src="https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg" alt="GitHub Activity Snake">
