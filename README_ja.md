@@ -70,14 +70,16 @@
 <p align="center">
   <b><a href="https://github.com/SametCirik/InkEra">InkEra Studio Drawing App</a></b>: モダンな描画インターフェースのコンセプト（開発中）。<br>
   <b><a href="https://github.com/SametCirik/Fountext-Screenwriting-Editor">Fountext Screenwriting Editor</a></b>: Linux向けにPythonで書かれたFountain脚本エディタ。<br>
+  <b><a href="https://github.com/SametCirik/SC-Hotspot">SC Hotspot</a></b>: Linuxでのハードウェアの競合を防ぐ動的Wi-FiブリッジおよびTUIユーティリティ。<br>
   <b><a href="https://github.com/SametCirik/Whatsapp-KYK-Bot">WhatsApp KYK Bot</a></b>: 効率と自動化に焦点を当てたサービスアプリケーション。<br>
   <b><a href="https://github.com/SametCirik/FolderToText">Folder To Text</a></b>: ディレクトリ構造を文書化するためのユーティリティツール。<br>
-  <b><a href="https://github.com/SametCirik/SC-Hotspot">SC Hotspot</a></b>: Linuxでのハードウェアの競合を防ぐ動的Wi-FiブリッジおよびTUIユーティリティ。<br>
   <b><a href="https://github.com/SametCirik/Solitaire">Solitaire</a></b>: Java Swingで開発されたカードゲームエンジンの研究。<br>
-  <b><a href="https://github.com/SametCirik/Base">Base</a></b>: Linux向けのモバイルゲームパッドアプリケーション（モバイルUI開発に焦点）。
+  <!--<b><a href="https://github.com/SametCirik/Base">Base</a></b>: Linux向けのモバイルゲームパッドアプリケーション（モバイルUI開発に焦点）。-->
 </p>
 
 ---
+
+<!--
 
 <h3 align="center">お問い合わせ</h3>
 
@@ -117,6 +119,8 @@
 </div>
 
 ---
+
+-->
 
 <p align="center">
   <img src="https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg" alt="GitHub Activity Snake">
