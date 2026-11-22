@@ -74,14 +74,16 @@
 <p align="center">
   <b><a href="https://github.com/SametCirik/InkEra">InkEra Studio Drawing App</a></b>: A modern drawing interface concept (Work in progress).<br>
   <b><a href="https://github.com/SametCirik/Fountext-Screenwriting-Editor">Fountext Screenwriting Editor</a></b>: Fountain screenwriting editor written in Python for Linux.<br>
+  <b><a href="https://github.com/SametCirik/SC-Hotspot">SC Hotspot</a></b>: A dynamic Wi-Fi bridge and TUI utility preventing hardware conflicts on Linux.<br>
   <b><a href="https://github.com/SametCirik/Whatsapp-KYK-Bot">WhatsApp KYK Bot</a></b>: A service application focused on efficiency and automation.<br>
   <b><a href="https://github.com/SametCirik/FolderToText">Folder To Text</a></b>: A utility tool for documenting directory structures.<br>
-  <b><a href="https://github.com/SametCirik/SC-Hotspot">SC Hotspot</a></b>: A dynamic Wi-Fi bridge and TUI utility preventing hardware conflicts on Linux.<br>
   <b><a href="https://github.com/SametCirik/Solitaire">Solitaire</a></b>: A card game engine study developed with Java Swing.<br>
-  <b><a href="https://github.com/SametCirik/Base">Base</a></b>: A mobile gamepad application for Linux (Focusing on the mobile UI development).
+  <!--<b><a href="https://github.com/SametCirik/Base">Base</a></b>: A mobile gamepad application for Linux (Focusing on the mobile UI development).-->
 </p>
 
 ---
+
+<!--
 
 <h3 align="center">Contact me</h3>
 
@@ -119,6 +121,8 @@
 </div>
 
 ---
+
+-->
 
 <p align="center">
   <img src="https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg" alt="GitHub Activity Snake">
